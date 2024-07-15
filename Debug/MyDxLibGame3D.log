@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+D:\由比ゼミ\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  main.cpp
+D:\由比ゼミ\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Map.cpp
+D:\由比ゼミ\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Player.cpp
+D:\由比ゼミ\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  WorldSprite.cpp
+D:\由比ゼミ\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コードを生成中...
+  MyDxLibGame3D.vcxproj -> D:\由比ゼミ\school\MyDxLibGame2.5D\01_1.MyDxLibGame2.5D(2DMap_Answer)\Debug\MyDxLibGame3D.exe
