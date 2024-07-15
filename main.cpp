@@ -90,3 +90,5 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 	// ソフトの終了
 	return 0;
 }
+
+//お試し
